@@ -1,6 +1,6 @@
 # CodeClause_Market_Basket_Analysis
-This Project is about Market Basket Analysis using Apriori algorithm in Python
-Market Basket Analysis using assocition rules - apriori technique in Two ways
+This Project is about Market Basket Analysis using Apriori algorithm in Python.
+Market Basket Analysis using assocition rules - apriori technique in Two ways.
 
 Association rules analysis is a technique to uncover how items are associated to each other. There are three common ways to measure association.
 
